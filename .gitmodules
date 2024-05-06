@@ -1,0 +1,3 @@
+[submodule "TRAIL"]
+	path = TRAIL
+	url = https://github.com/IBM/TRAIL
